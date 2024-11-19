@@ -1,0 +1,41 @@
+Palavras duplicadas no parágrafo 2: que 2x, você 2x, tenha 2x 
+Palavras duplicadas no parágrafo 11: que 3x, estão 2x 
+Palavras duplicadas no parágrafo 12: que 2x 
+Palavras duplicadas no parágrafo 13: kanban 2x 
+Palavras duplicadas no parágrafo 16: scrum 2x, por 2x, quadro 2x, que 3x, alguns 2x 
+Palavras duplicadas no parágrafo 18: sistema 2x, para 2x 
+Palavras duplicadas no parágrafo 20: modelo 2x, kanban 3x, para 2x, desenvolvimento 2x, software 3x, pensamento 2x, com 2x, método 2x 
+Palavras duplicadas no parágrafo 22: anderson 2x, método 3x, kanban 5x, com 3x, palavra 2x, “k” 2x, dos 2x 
+Palavras duplicadas no parágrafo 23: kanban 3x, como 2x, método 3x, que 3x, forma 2x, framework 2x, implementação 2x 
+Palavras duplicadas no parágrafo 24: uma 2x, metodologia 2x, método 2x, kanban 2x 
+Palavras duplicadas no parágrafo 26: kanban 2x, que 2x, entrega 2x, valor 2x 
+Palavras duplicadas no parágrafo 27: uma 2x 
+Palavras duplicadas no parágrafo 29: kanban 2x, características 2x, para 2x 
+Palavras duplicadas no parágrafo 30: trabalho 3x 
+Palavras duplicadas no parágrafo 31: tempo 3x, preparação 2x 
+Palavras duplicadas no parágrafo 32: layout 2x, máquinas 2x, trabalho 2x, reduzir 2x 
+Palavras duplicadas no parágrafo 33: padronização 2x 
+Palavras duplicadas no parágrafo 34: por 2x, kanban 2x 
+Palavras duplicadas no parágrafo 35: para 2x 
+Palavras duplicadas no parágrafo 37: kanban 3x 
+Palavras duplicadas no parágrafo 38: produção 3x, etapas 2x, que 2x, etapa 2x 
+Palavras duplicadas no parágrafo 39: kanban 3x, para 2x, produção 2x, material 2x 
+Palavras duplicadas no parágrafo 40: kanban 2x, produção 2x 
+Palavras duplicadas no parágrafo 42: uma 2x 
+Palavras duplicadas no parágrafo 53: controle 2x, sistema 2x 
+Palavras duplicadas no parágrafo 55: vantagens 2x, kanban 2x 
+Palavras duplicadas no parágrafo 56: trabalho 2x 
+Palavras duplicadas no parágrafo 57: dinamismo 2x, entre 2x, pessoas 2x, trabalho 2x, equipe 2x 
+Palavras duplicadas no parágrafo 58: ambiente 2x, colaboração 2x, trabalho 2x, todas 2x 
+Palavras duplicadas no parágrafo 59: autonomia 2x 
+Palavras duplicadas no parágrafo 60: forma 2x, problemas 2x 
+Palavras duplicadas no parágrafo 61: trabalho 2x, esforços 2x, com 2x 
+Palavras duplicadas no parágrafo 62: quais 3x, estão 2x, que 2x, sejam 2x 
+Palavras duplicadas no parágrafo 63: kanban 2x 
+Palavras duplicadas no parágrafo 65: método 2x, que 4x, “comece 2x, pelo 2x, você 3x 
+Palavras duplicadas no parágrafo 67: lean 2x 
+Palavras duplicadas no parágrafo 68: pensamento 2x, ágil 3x 
+Palavras duplicadas no parágrafo 69: sistema 4x, puxado 2x, oposição 2x, para 2x 
+Palavras duplicadas no parágrafo 70: seu 2x, valor 2x, para 2x 
+Palavras duplicadas no parágrafo 73: que 3x, produto 2x, valor 3x, desejado 2x, carro 3x, por 2x, deslocamento 2x 
+Palavras duplicadas no parágrafo 75: que 4x, valor 2x, desperdício 2x, parte 2x 
